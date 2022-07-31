@@ -9,7 +9,7 @@
     "lintfix": "prettier --write --list-different ."
   },
   "dependencies": {
-    "discord.js": "14.1.1",
+    "discord.js": "14.1.2",
     "dotenv": "^16.0.1",
     "glob": "^8.0.3"
   },
